@@ -1543,7 +1543,7 @@ content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;<
 &lt;&lt; header &gt;&gt;
 
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;第 11 ~17週開始的規劃&lt;/h1&gt;
+    &lt;h1&gt;第 11 -17週開始的規劃&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
     
